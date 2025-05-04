@@ -7,7 +7,7 @@
       "name": "services-grid",
       "type": "registry:block",
       "title": "Services Grid",
-      "description": "A grid layout for displaying services using cards.",
+      "description": "A grid layout for displaying services using cards",
       "files": [
         {
           "path": "registry/vibe-default/blocks/services-grid/services-grid.tsx",
