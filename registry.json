@@ -2,6 +2,7 @@
   "$schema": "https://ui.shadcn.com/schema/registry.json",
   "name": "vibe",
   "homepage": "https://kit.vibehaus.xyz/",
+  "type": false,
   "items": [
     {
       "name": "services-grid",
