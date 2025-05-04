@@ -1,0 +1,17 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "number-flow",
+  "type": "registry:ui",
+  "title": "Number Flow",
+  "description": "A component for displaying number flows.",
+  "dependencies": [
+    "@number-flow/react"
+  ],
+  "files": [
+    {
+      "path": "registry/vibe-default/ui/number-flow.tsx",
+      "content": "export { default as NumberFlow } from '@number-flow/react';\n",
+      "type": "registry:ui"
+    }
+  ]
+}
